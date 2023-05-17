@@ -1,4 +1,4 @@
-package org.evenos.process;
+package assignment;
 
 import org.compiere.model.MAsset;
 

@@ -1,8 +1,8 @@
-package org.evenos.factories;
+package assignment;
 
 import org.adempiere.base.IProcessFactory;
 import org.compiere.process.ProcessCall;
-import org.evenos.process.AssignProcess;
+
 
 public class AssignProcessFactory implements IProcessFactory{
 
